@@ -83,25 +83,25 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>FreedTV/vipParse.json at main · artxia/FreedTV</title>
+  <title>FreedTV/sourceNavigation.json at main · artxia/FreedTV</title>
     <meta name="description" content="Contribute to artxia/FreedTV development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/8e4fa10aabb63a3b355f771db53d10330b4027522ce150f1b43243575b180fd2/artxia/FreedTV" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="FreedTV/vipParse.json at main · artxia/FreedTV" /><meta name="twitter:description" content="Contribute to artxia/FreedTV development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/8e4fa10aabb63a3b355f771db53d10330b4027522ce150f1b43243575b180fd2/artxia/FreedTV" /><meta property="og:image:alt" content="Contribute to artxia/FreedTV development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="FreedTV/vipParse.json at main · artxia/FreedTV" /><meta property="og:url" content="https://github.com/artxia/FreedTV" /><meta property="og:description" content="Contribute to artxia/FreedTV development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/8e4fa10aabb63a3b355f771db53d10330b4027522ce150f1b43243575b180fd2/artxia/FreedTV" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="FreedTV/sourceNavigation.json at main · artxia/FreedTV" /><meta name="twitter:description" content="Contribute to artxia/FreedTV development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/8e4fa10aabb63a3b355f771db53d10330b4027522ce150f1b43243575b180fd2/artxia/FreedTV" /><meta property="og:image:alt" content="Contribute to artxia/FreedTV development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="FreedTV/sourceNavigation.json at main · artxia/FreedTV" /><meta property="og:url" content="https://github.com/artxia/FreedTV" /><meta property="og:description" content="Contribute to artxia/FreedTV development by creating an account on GitHub." />
 
 
 
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90995135/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDk5NTEzNSwicyI6NzU1MTc2ODI5LCJjIjo1NDU5OTExMzMsInQiOjE2MzIwMjE1NDZ9--d1171909cfb9f58a7baab612b34ed9f094d942ce29abadf87a38bc1635923d6a" data-refresh-url="/_alive" data-session-id="797f37b2ee094448565da3c359b4b1c681413eced6cd7826b260e74d279bbabc">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/90995135/ws?session=eyJ2IjoiVjMiLCJ1Ijo5MDk5NTEzNSwicyI6NzU1MTc2ODI5LCJjIjozNTk0Mjg1MTE2LCJ0IjoxNjMyMDIxNTMxfQ==--f542ffe81092c2434d91e6feac13a18b7f2911491100afde74f426301537494f" data-refresh-url="/_alive" data-session-id="797f37b2ee094448565da3c359b4b1c681413eced6cd7826b260e74d279bbabc">
     <link rel="shared-web-socket-src" href="/socket-worker-0af8a29d.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="ED21:5266:6426A1:7223CE:6146AC22" data-pjax-transient="true" /><meta name="html-safe-nonce" content="17d8a1edbcba806fab8c93926ec58eb749bbf37b192218c3431799515164f37b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hcnR4aWEvRnJlZWRUViIsInJlcXVlc3RfaWQiOiJFRDIxOjUyNjY6NjQyNkExOjcyMjNDRTo2MTQ2QUMyMiIsInZpc2l0b3JfaWQiOiIyMDY1OTA1MjUxMjY1MDk3NDg5IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="886f6837e8e748a1e9d4946ad385efe277f28b4be6ff8cd6f370813e3196e558" data-pjax-transient="true" />
+  <meta name="request-id" content="ED21:5266:642273:721F12:6146AC13" data-pjax-transient="true" /><meta name="html-safe-nonce" content="17d8a1edbcba806fab8c93926ec58eb749bbf37b192218c3431799515164f37b" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hcnR4aWEvRnJlZWRUViIsInJlcXVlc3RfaWQiOiJFRDIxOjUyNjY6NjQyMjczOjcyMUYxMjo2MTQ2QUMxMyIsInZpc2l0b3JfaWQiOiIyMDY1OTA1MjUxMjY1MDk3NDg5IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="ca3d77c4caca5df845cf69902929363eefb61b45c8cf8a419d436e82d987f0d1" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:341225728" data-pjax-transient>
 
@@ -140,7 +140,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NGY2MzY3Yjg2NWFmNjhlYTkyYzRhNWMyNGNjOTBjMjkxYWY2M2JkMmM3YjJlMWZjYmEzYjI1ZTBhMTYzMTlhYnx7InJlbW90ZV9hZGRyZXNzIjoiNzEuMTM2LjEzOC44OCIsInJlcXVlc3RfaWQiOiJFRDIxOjUyNjY6NjQyNkExOjcyMjNDRTo2MTQ2QUMyMiIsInRpbWVzdGFtcCI6MTYzMjAyMTU0NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZDRhODE2MjZkZTgxZjRjN2YxY2Q2YTdjYzBlMWE5NDgxNDM2MWU1YTJkMzQyZjlhZWUwNDZhNGIyZmE5ODJhNHx7InJlbW90ZV9hZGRyZXNzIjoiNzEuMTM2LjEzOC44OCIsInJlcXVlc3RfaWQiOiJFRDIxOjUyNjY6NjQyMjczOjcyMUYxMjo2MTQ2QUMxMyIsInRpbWVzdGFtcCI6MTYzMjAyMTUzMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="BRANCH_PROTECTION_RULE_WEBHOOK,MARKETPLACE_PENDING_INSTALLATIONS,FILE_UPLOAD_CURSOR_POSITION,PJAX_RELOAD_STATS">
 
@@ -157,7 +157,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/artxia/FreedTV/blob/main/vipParse.json" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -197,7 +197,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="a54694c5257bc1d4ca3ce78e0f914325a1fe79c95391cd35666befbceedd6377"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="0db960b79efb86955187514d4a5964a2ed8b9f5154bf936894daa88d75c52331"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -247,7 +247,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="IHcMc+LDC/5nUtFMCoIE1QblGy88TJ2pxWmDc/LPduhpl4qGYdqqqIDqZR9/mOIqyMDsCnAjBsVcTiy4sKsV0w==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="o980edeNPVlpXKYqy0eYertGuOj7A+xcYT0sqVQ3HO/qP7KMVJScD47kEnm+XX6FdWNPzbdsdzD4GoNiFlN/1A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -451,7 +451,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;xpsun68&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="38bfe8dbcf1ce06cd47c66b39e69465235881cd88d63ee16e0393b97d64b5880" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;xpsun68&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="10b8d135feae3b29b8c5641987c730f81b49c36de3a0c464acfff4c20414b844" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -460,12 +460,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/90995135?s=40&amp;v=4" width="20" height="20" alt="@xpsun68" />
       xpsun68
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D3ji0EKksualE05PdJ0m/zEGLN/s3TpBJYKh7eUJLICLyW8y3Mw0AIOQ0o5tOQBLv7UZPqfafAKLOSxZe8td9Q==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iHtGRaadiLrI8Ske5OfN83Zpl5R6RHj+oY37fAdx1QEMysunOPUOXO5ytd/9Q+tH+NqidTFDPr0PNnbImbOkdA==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="d0062bb000d0992b5863e2282aee28babf1eca341f3b26a0d068e12be6d2564b"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="1f1d58a44aeb0206de89558a3da27ccae1925cece7674694b09e4c2791dd261f"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -482,7 +482,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="a54694c5257bc1d4ca3ce78e0f914325a1fe79c95391cd35666befbceedd6377"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="0db960b79efb86955187514d4a5964a2ed8b9f5154bf936894daa88d75c52331"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -498,7 +498,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA5OTUxMzUiLCJ0IjoxNjMyMDIxNTQ2fQ==--e836430a37a5632b6332bdcdb80bce477bca3caff9278de213c8cc2d11cca8c9">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6OTA5OTUxMzUiLCJ0IjoxNjMyMDIxNTMxfQ==--7c027bb72f413a835c8a78b33204ef30428da671a0ec0cee523101642b06e082">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -521,7 +521,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="5ebbbf46fcf7859d84ecc95fc8f3de9e040853e0f82f04d41f0a02e4d27bf7ca"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="3ce422d389e72d4f06ead8171ee79775bae85a9ce7ad8a8bac028035be3c78d5"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -559,7 +559,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="46ce7367325b5c5801b98e32254da30b9dad3c9c10a3f4bbd3290a62cc11f1c2"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="94a90d522958e4b354962dea805b11bca239e4e748fd4509aab8e2f06d3b4493"
   >
     <img src="https://avatars.githubusercontent.com/u/90995135?s=60&amp;v=4" alt="@xpsun68" size="20" height="20" width="20" data-view-component="true" class="avatar-user avatar avatar-small"></img>
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -675,7 +675,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="1b7a9ea8036b14cdef5ce43212df111f2a13b219d36a1c67c913683f0d12b550" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
+      <summary class="btn btn-sm rounded-right-0" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="1cf125009888ea99117ca1193ba7406243c9b62049556a74b4b4dc5785c7a02c" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notifications settings">
           <span data-menu-button>
             <span
               hidden
@@ -727,7 +727,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HMfAjegaPJV50J4qeJiIv6kyDsGrA7/JAwdWGc9UKHsQuzM2AE0xWiKOirTUbG2bDiu81F/fZG7kWEwEymzNwQ==" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JmJD1/MvEK2PQnOO2L87aNBvJ94z2hbB/KZlrcOJtCkqHrBsG3gdYtQcZxB0S95Md3aVy8cGzWYb+X+wxrFRkw==" />
 
                 <input type="hidden" name="repository_id" value="341225728">
 
@@ -850,7 +850,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1QHZrXE7TF5iO0Mzp++rinJV5/CrwdWjyysth7u54KPZfSoWmWxBkTllV60LG06u1UxV5V8dDgQsdDeavoEFGQ==" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sBP8hxyyzCtd4lb6/q8xeGzkPJ9x20X3QxXQVpm+ofC8bw889OXB5Aa8QmRSW9Rcy/2OioUHnlCkSspLnIZESg==" />
 
               <input type="hidden" name="repository_id" value="341225728">
 
@@ -1009,9 +1009,9 @@
 
   <li>
         <div class="d-block js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/artxia/FreedTV/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="r5ZdgbaZmgJHE/xzajVj8xj8BrIXdeJL8Um8EypQp52HO1iRytVsy4W+Fk82A6ESOWh8ft0nDoxQZAfz3+zYZw==" />
+    <form class="starred js-social-form" action="/artxia/FreedTV/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s2thKbqYZ4xnuzl1gxaU1QHwB9dlZFG9vw/qSQr0HK2bxmQ5xtSRRaUW00nfIFY0IGR9G682vXoeIlGp/0hjVw==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar artxia/FreedTV" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="738a2fadd83aab09c40a3b985c92745c7e24b6da87cef90c76ecc86f57318f14" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar artxia/FreedTV" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="b1692ce0377959b8d97aad3b835c205392e6774baab8cb8766f24f2b6f6b9548" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg>
         <span data-view-component="true">
@@ -1021,9 +1021,9 @@
            33
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/artxia/FreedTV/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rsW7aVfib0AeZ41ubrbPWjjZA1sqV2DQ3iwgv6W0EjARH+PWNdtiWv6Qmp7eHXP+TkiXd4XJ4LW7XRMlEqvldQ==" />
+    <form class="unstarred js-social-form" action="/artxia/FreedTV/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OHAQXI4/5P6R0Nc2yCpleGfZ5ynnMsGsHQOE8eAVbzGHqkjj7Abp5HEnwMZ4gdncEUhzBUisQcl4crdrVwqYdA==" />
       <input type="hidden" name="context" value="repository">
-      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Star this repository" title="Star artxia/FreedTV" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="3127d8b4f91a74d5ed22e71091f5a8d67763b212a55c5599c25daef3120e37ea" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
+      <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Star this repository" title="Star artxia/FreedTV" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="6afa613f02dbac0161514d21dc805f35c893fe721f4e602190e9901b4f77f67b" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
         <span data-view-component="true">
@@ -1037,8 +1037,8 @@
   </li>
 
   <li>
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/artxia/FreedTV/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Cq20NLMLbeD3tg/ZMv9BdThoCSF88Loc1zAWSE6DocconfR3hRenIr2f5nhkIobTkfDTr+mg40zL3QmtIO1PDw==" />
-              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="05f8c28efdb4be93c31911f1e34bcdd27567256f803320f46adbd36630749a45" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of artxia/FreedTV to your account" aria-label="Fork your own copy of artxia/FreedTV to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/artxia/FreedTV/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BYqn6DlXFYjbMT9xv5YZlCN/5IKhCr/MJEgLSOE4yq8nuuerD0vfSpEY1tDpS94yiuc+DDRa5pw4pRStj1YkZw==" />
+              <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="a567756ccc7983f80bf8ae3e4de2f1fc767f959eac495594c96f99a5780d119b" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of artxia/FreedTV to your account" aria-label="Fork your own copy of artxia/FreedTV to your account">                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
                 Fork
@@ -1216,9 +1216,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/artxia/FreedTV/blob/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/vipParse.json">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/artxia/FreedTV/blob/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/sourceNavigation.json">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:984c77375ce2822bcdb5e4100a796188211a1781a2f4992f337b01a688f4476d -->
+    <!-- blob contrib key: blob_contributors:v22:a940e20cc99a099434229e67d43fb559e9d0f040d26582b453e5ded527ad790e -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -1303,7 +1303,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/artxia/FreedTV/blob/{{ urlEncodedRefName }}/vipParse.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/artxia/FreedTV/blob/{{ urlEncodedRefName }}/sourceNavigation.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1343,7 +1343,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/artxia/FreedTV/blob/{{ urlEncodedRefName }}/vipParse.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/artxia/FreedTV/blob/{{ urlEncodedRefName }}/sourceNavigation.json" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1374,7 +1374,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/artxia/FreedTV"><span>FreedTV</span></a></span></span><span class="separator">/</span><strong class="final-path">vipParse.json</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/artxia/FreedTV"><span>FreedTV</span></a></span></span><span class="separator">/</span><strong class="final-path">sourceNavigation.json</strong>
       </h2>
       <a href="/artxia/FreedTV/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -1395,7 +1395,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="8140e6aef3d755a5beaf8770fb02309069b46a6563c49831c234674c279aff2a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/artxia/FreedTV/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:341225728,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="5a980ed66395b4b9f0f74d0fd3722a8bd848817fd1d3966bd5b8bc9c0687ca5a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/artxia/FreedTV/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -1413,13 +1413,13 @@
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="vipParse.json" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="sourceNavigation.json" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/artxia/FreedTV/blob/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/vipParse.json" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/artxia/FreedTV/blob/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/sourceNavigation.json" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -1434,7 +1434,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/artxia/FreedTV/contributors/main/vipParse.json" class="commit-loader">
+      <include-fragment src="/artxia/FreedTV/contributors/main/sourceNavigation.json" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1469,21 +1469,21 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      16 lines (16 sloc)
+      52 lines (52 sloc)
       <span class="file-info-divider"></span>
-    269 Bytes
+    1.97 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/artxia/FreedTV/raw/main/vipParse.json" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/artxia/FreedTV/raw/main/sourceNavigation.json" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Raw
   
 
 </a>
-        <a href="/artxia/FreedTV/blame/main/vipParse.json" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
+        <a href="/artxia/FreedTV/blame/main/sourceNavigation.json" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
   
   Blame
   
@@ -1503,7 +1503,7 @@
           </a>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/artxia/FreedTV/edit/main/vipParse.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="UCJybB4ni6UAjdil/RKf+GI/Q/vtOMX29k0yzbNpBql0IekXYQi3lO0vYkyADLAgrKF+bVw4r+DqhDpZhFSk6g==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/artxia/FreedTV/edit/main/sourceNavigation.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="YQMJw6ka822BWdSqUymro80VdokGvzAQVhZP+aWZcZ2KFyv40Mf03cyhZN9txM7k8xSkUXIwXEla+ynxOkhMcA==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -1511,7 +1511,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/artxia/FreedTV/delete/main/vipParse.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Qv2F+owmEFiUEOsQ6QcRaSw03OPE3xM4wTbeRv3WM49tKz8KVKXX2kutDyte1OkuI6XwIVhvkaQxP3gIuKVTUQ==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/artxia/FreedTV/delete/main/sourceNavigation.json" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CKhmbnniz8G0Akp/6a2dnak+CtAYtTeYaUE5t/1wiqk3eJMlyHwvae7JCbGnCArzHLY9amFODmC1OL2Y7wTwDQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1539,22 +1539,22 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/artxia/FreedTV/raw/main/vipParse.json">
+            <a class="dropdown-item" href="/artxia/FreedTV/raw/main/sourceNavigation.json">
               View raw
             </a>
           </li>
             <li>
-              <a class="dropdown-item" href="/artxia/FreedTV/blame/main/vipParse.json">
+              <a class="dropdown-item" href="/artxia/FreedTV/blame/main/sourceNavigation.json">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/artxia/FreedTV/edit/main/vipParse.json">Edit file</a>
+                <a class="dropdown-item" href="/artxia/FreedTV/edit/main/sourceNavigation.json">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/artxia/FreedTV/delete/main/vipParse.json">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/artxia/FreedTV/delete/main/sourceNavigation.json">Delete file</a>
               </li>
         </ul>
       </details>
@@ -1581,55 +1581,199 @@
       </tr>
       <tr>
         <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
-        <td id="LC4" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>id<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">19</span>,</td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>name<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>(新增)稳定轮播*荐*<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
-        <td id="LC5" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>name<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>自定义1<span class="pl-pds">&quot;</span></span>,</td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>pic<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
-        <td id="LC6" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>ad<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>no<span class="pl-pds">&quot;</span></span>,</td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webUrl<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
-        <td id="LC7" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>url<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://api.leduotv.com/wp-api/ifr.php?vid=<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>type<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>txt<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
-        <td id="LC8" class="blob-code blob-code-inner js-file-line">    },</td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>subTitle<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>经典动画电影整理中<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
-        <td id="LC9" class="blob-code blob-code-inner js-file-line">    {</td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>click<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
-        <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>id<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">19</span>,</td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>autoNext<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">false</span>,</td>
       </tr>
       <tr>
         <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
-        <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>name<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>自定义2<span class="pl-pds">&quot;</span></span>,</td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webOpen<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">false</span>,</td>
       </tr>
       <tr>
         <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
-        <td id="LC12" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>ad<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>no<span class="pl-pds">&quot;</span></span>,</td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyDownPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
-        <td id="LC13" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>url<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://sb.5gseo.net/?url=<span class="pl-pds">&quot;</span></span></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyUpPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
       </tr>
       <tr>
         <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
-        <td id="LC14" class="blob-code blob-code-inner js-file-line">    }</td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>userAgent<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36<span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
-        <td id="LC15" class="blob-code blob-code-inner js-file-line">  ]</td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>ads<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>,</td>
       </tr>
       <tr>
         <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
-        <td id="LC16" class="blob-code blob-code-inner js-file-line">}</td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>decoder<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">0</span>,</td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webPlus<span class="pl-pds">&quot;</span></span>: {}</td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>name<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>(新增)稳定直播*荐*<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>pic<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webUrl<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://gitee.com/be_fine/iptv/raw/master/zho_check.m3u<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>type<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>m3u<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>subTitle<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>经典动画电影整理中<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>click<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>autoNext<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">false</span>,</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webOpen<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">false</span>,</td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyDownPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyUpPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>userAgent<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>ads<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>decoder<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">0</span>,</td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webPlus<span class="pl-pds">&quot;</span></span>: {}</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line">    },</td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">    {</td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>name<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>直播<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>pic<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webUrl<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>type<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>m3u<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>subTitle<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>经典动画电影整理中<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>click<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>autoNext<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webOpen<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">false</span>,</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyDownPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>keyUpPlay<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">true</span>,</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>userAgent<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span>Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36<span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>ads<span class="pl-pds">&quot;</span></span>: <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span>,</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>decoder<span class="pl-pds">&quot;</span></span>: <span class="pl-c1">0</span>,</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">      <span class="pl-s"><span class="pl-pds">&quot;</span>webPlus<span class="pl-pds">&quot;</span></span>: {}</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    }</td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line">  ]</td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">}</td>
       </tr>
 </table>
 
@@ -1654,7 +1798,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/artxia/FreedTV/blame/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/vipParse.json">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/artxia/FreedTV/blame/f9666db78b35ba6504be8ab4039cb0ecee3f3b43/sourceNavigation.json">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/artxia/FreedTV/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -1699,10 +1843,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="4bcdad04b94581b221b1ae5f161e0e23c2e8d733bd8a01cb57f7286086b234c7">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="e050b3b1c0881380ba817d30f4b361f90a0cdd76b3f848652c0bc3e892500dfb">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="557d8737ecdc8f6b220e8230670c395c5fa2b0cdaa1c9f877ff66fa17e3f7241" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="8284d1f5af416694edb54c26e6fe3649324624a3e58a2f35762e13eba619acc5">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="000fcb9ef07a1a07d93f7ee9143325cb6d47d0a519326ce2b4904720a0fdb9f7">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="dfd417ec3747dfc498a6cf01cd9eb0f0fe92577de63d751263bf8daf6ca7e99d">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="0c221a5bc9f47e5c3c4b42a29e9cdfe7176a7742b4ab3f3243a905bf3b0ee6bd" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="61f591552b9f79355ef1f73ef507774acce52ff45d4968ef513216db81a0b167">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1712,11 +1856,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="0baff6401165c5397aafd8033caa43f193d230417819de98c54d5421e139d3cf">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="3933222cba577fa296e91170bb935487c39decfb93846b9692abfebe27dd977e">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="bfe2a511a3a9366f9e98b8ecc24c141a7fb48b15a8997d2de0e7b1c64002cf96">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="8f262d705b06c3754cb2c2de1310b9e3db4501f9c56e6651287fe3547f8f243c">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/vipParse.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="fed43d46ac5c91d369c7c3627c4b22bb27769c383622895572af88b2e4f735ad">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="6790bc623d8e4908721ace74ec9bc3d88703211cf69b6805b72c22f82a15d159">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="10be25fe07b5a5b6683848c3a5539120a94786d5f65ae4709e5687b844481877">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="405b8d63406fb6df464dae97c35ebf661b568103fde46ea797db4baf7844e7e5">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="fee00b3d52c8d3514bd647eb1182522f53c6e15ec6bd658143dc9a4b50c7483c">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/artxia/FreedTV/blob/main/sourceNavigation.json&quot;,&quot;user_id&quot;:90995135}}" data-hydro-click-hmac="5ac14689cc4b59b649fcb92f1085fdbd91ec3216d67b8044c1853cf376b72c49">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
